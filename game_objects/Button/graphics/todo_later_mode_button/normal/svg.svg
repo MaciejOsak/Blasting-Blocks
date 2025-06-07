@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="230"
+   height="60"
+   viewBox="0 0 60.854165 15.875"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="todo_later_mode_button.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Menu"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#d48b00;fill-opacity:1;stroke-width:0.777403"
+       id="rect8"
+       width="60.854168"
+       height="15.875"
+       x="0"
+       y="0"
+       rx="2.3195655" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;line-height:1.2;font-family:Onyx;-inkscape-font-specification:Onyx;white-space:pre;inline-size:50.8147;opacity:1;fill:#d48b00;fill-opacity:1;stroke-width:0.79375"
+       x="29.241312"
+       y="113.90734"
+       id="text9"
+       transform="matrix(1.0731222,0,0,1.0395939,-27.727785,-108.62243)"><tspan
+         x="29.241312"
+         y="113.90734"
+         id="tspan2"><tspan
+           style="font-family:Sylfaen;-inkscape-font-specification:Sylfaen;fill:#ffffff"
+           id="tspan1">Dodam później</tspan></tspan></text>
+  </g>
+</svg>

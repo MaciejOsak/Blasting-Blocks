@@ -1,0 +1,9 @@
+score: int = 0
+multiplier: int = 1
+game_active: bool = True
+display_mode: str = "Start menu"
+beginning_setup_active: bool = True
+round_start: bool = True
+held_block: str = "none"
+round_had_strike: bool = False
+just_stroke: bool = False

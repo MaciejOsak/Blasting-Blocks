@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="750"
+   viewBox="0 0 105.83333 198.4375"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="main_menu.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <rect
+     style="opacity:1;fill:#000080;stroke-width:0.79375"
+     id="rect7"
+     width="105.83334"
+     height="198.4375"
+     x="5.5511151e-17"
+     y="-5.5511151e-17" />
+  <g
+     inkscape:label="Menu"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;line-height:1.2;font-family:Onyx;-inkscape-font-specification:Onyx;white-space:pre;inline-size:149.919;opacity:1;fill:#ff6600;stroke-width:0.79375"
+       x="19.494209"
+       y="48.544399"
+       id="text1"
+       transform="matrix(1.3575775,0,0,1,-20.586847,-2.4490467)"><tspan
+         x="19.494209"
+         y="48.544399"
+         id="tspan16">OG <tspan
+   style="fill:#c83737"
+   id="tspan10">K</tspan><tspan
+   style="fill:#ffff00"
+   id="tspan11">L</tspan><tspan
+   style="fill:#00ff00"
+   id="tspan12">O</tspan><tspan
+   style="fill:#800080"
+   id="tspan13">C</tspan><tspan
+   style="fill:#ac9d93"
+   id="tspan14">K</tspan><tspan
+   style="fill:#00ffff"
+   id="tspan15">I</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;line-height:1.2;font-family:Onyx;-inkscape-font-specification:Onyx;white-space:pre;inline-size:44.7756;opacity:1;fill:#000080;stroke-width:0.79375"
+       x="22.974144"
+       y="64.327606"
+       id="text8"
+       transform="matrix(1.2736318,0,0,1,2.2568029,-5.5353292)"><tspan
+         x="22.974144"
+         y="64.327606"
+         id="tspan18"><tspan
+           style="fill:#ff2a2a"
+           id="tspan17">czyli lepsza wersja</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#d48b00;fill-opacity:1;stroke-width:0.777403"
+       id="rect8"
+       width="60.854168"
+       height="15.875"
+       x="22.489584"
+       y="105.83334"
+       rx="2.3195655" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;line-height:1.2;font-family:Onyx;-inkscape-font-specification:Onyx;white-space:pre;inline-size:50.8147;opacity:1;fill:#d48b00;fill-opacity:1;stroke-width:0.79375"
+       x="29.241312"
+       y="113.90734"
+       id="text9"
+       transform="matrix(1.0731222,0,0,1.0395939,-5.2382015,-2.789088)"><tspan
+         x="29.241312"
+         y="113.90734"
+         id="tspan20"><tspan
+           style="font-family:Sylfaen;-inkscape-font-specification:Sylfaen;fill:#ffffff"
+           id="tspan19">Dodam później</tspan></tspan></text>
+    <rect
+       style="fill:#00d48d;fill-opacity:1;stroke-width:0.958995"
+       id="rect8-1"
+       width="92.604164"
+       height="15.875"
+       x="6.6145835"
+       y="137.77444"
+       rx="3.5297735" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.9375px;line-height:1.2;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;white-space:pre;inline-size:81.4474;fill:#ffffff;fill-opacity:1;stroke-width:0.79375"
+       x="29.241312"
+       y="113.90734"
+       id="text9-2"
+       transform="matrix(1.0131865,0,0,1.0374873,-16.471448,29.189063)"><tspan
+         x="29.241312"
+         y="113.90734"
+         id="tspan21">Jedyny słuszny tryb gry</tspan></text>
+  </g>
+</svg>
