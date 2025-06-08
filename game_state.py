@@ -1,7 +1,7 @@
 score: int = 0
 multiplier: int = 1
 game_active: bool = True
-display_mode: str = "Start menu"
+display_mode: str = "Classic game mode"
 beginning_setup_active: bool = True
 round_start: bool = True
 held_block: str = "none"
