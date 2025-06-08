@@ -23,10 +23,6 @@ When you line up eight squares vertically or horizontally you "**strike**". Thes
 **Combo** is for how many rounds in a row you've had strikes. It is a multiplier for points you get, e.g. your combo is 3 so for another strike instead of 8, you get 3 * 8 = 24 points.
 
 ## Menu
-To start a new game, click the green button with your mouse.
-
-After that, a new game begins.
-
 In the top left corner, near the crown icon, you can see your highscore. 
 
 In the middle, written with a bigger font is your current score. 
