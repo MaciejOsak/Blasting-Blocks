@@ -39,5 +39,9 @@ To grab a block, hover on it and press LMB. If you change your mind, hover on an
 ### Switching blocks to place
 Press "P" on your keyboard when you want to switch the blocks you have to place.
 
-## Main rule
+---
+
+If you see any bugs, report them please. It will be greatly appreciated!
+
+# Main rule
 Have fun!
